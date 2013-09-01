@@ -1,7 +1,7 @@
-Arduino ESC (Electronic Speed Controller) Control
+Arduino ESC Control
 ===================
 
-Control an ESC with an Arduino using serial input and a potentiometer.
+This sketch uses an Arduino to control an ESC (Electronic Speed Controller) using serial input or a potentiometer.
 
 
 Plug a potentiometer into analog pin 0.
